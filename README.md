@@ -1,5 +1,6 @@
 # informe-Laboratotio-1
 OBJETIVOS:
+
  Distinguir una fuente de corriente de una fuente de voltaje.
 	   Medir la resistencia equivalente en un circuito conectado en paralelo.
        Verificar que en un nodo, la sumatoria de corrientes sea cero.
