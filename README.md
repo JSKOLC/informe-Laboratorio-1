@@ -73,7 +73,7 @@ Establece que: La suma algebraica de las caídas de tensión a lo largo de una m
   
   ![imagen](https://user-images.githubusercontent.com/85263529/121138649-85c70c80-c7fd-11eb-9e5e-849bf4a77baa.png)
   
-  Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1
+  Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 5.5.1
   
    5.3 Realizamos los respectivos calculos analiticos.
    
@@ -97,20 +97,28 @@ Establece que: La suma algebraica de las caídas de tensión a lo largo de una m
    
    5.5 Tablas de datos.
    
- ![imagen](https://user-images.githubusercontent.com/85263529/121159239-a3ea3800-c810-11eb-9193-c1c0b3184db2.png)
+   Tabla 5.5.1. Reslutados obtenidos de voltajes y corrientes, en cada elemento del circuito.
    
+   ![imagen](https://user-images.githubusercontent.com/85263529/121215481-aca93100-c845-11eb-9cef-b02470be0a0b.png)
+
+  Verifique que se cumpple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caidas de voltaje con signo negativo, anote los resultados en la tabla 5.5.2.
+  
+  Tabla. 5.5.2 Verificacion de la LVK
+  
  ![imagen](https://user-images.githubusercontent.com/85263529/121159364-c0867000-c810-11eb-804b-795268eccfaa.png)
    
-   Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
-Tabla 1.3. Verificación de la LCK
+   Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran y con signo negativo las que salen del nodo. Anote los resultados en la tabla 5.5.3.
+   
+Tabla 5.5.3. Verificación de la LCK
 
  ![imagen](https://user-images.githubusercontent.com/85263529/121167315-70f77280-c817-11eb-8a81-1b51f603b443.png)
 
 
-
-
 6. RESPUESTA A INTERROGANTES 
-
+ Una principal interrogante que podemos notar es el por qué no coinciden los datos calculados con clos datos medidos. en realidad es muy facil responder puesto que al momento de realizar los calculos manualmente demebos tomar muy en cuenta los decimales, es decir las aproximaciones con las que vayamos a trtabajar. 
+ 
+ luego de comparar los reultados obtenidos la variación es casi nula, dando asi por comprovado las LVK y las LCK si se cumplen en cualquier circuito.
+ 
 7. VIDEO
 
 
