@@ -97,9 +97,15 @@ Establece que: La suma algebraica de las caídas de tensión a lo largo de una m
    
    5.5 Tablas de datos.
    
-   ![imagen](https://user-images.githubusercontent.com/85263529/121159239-a3ea3800-c810-11eb-9193-c1c0b3184db2.png)
+ ![imagen](https://user-images.githubusercontent.com/85263529/121159239-a3ea3800-c810-11eb-9193-c1c0b3184db2.png)
    
-   ![imagen](https://user-images.githubusercontent.com/85263529/121159364-c0867000-c810-11eb-804b-795268eccfaa.png)
+ ![imagen](https://user-images.githubusercontent.com/85263529/121159364-c0867000-c810-11eb-804b-795268eccfaa.png)
+   
+   Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
+Tabla 1.3. Verificación de la LCK
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/121167315-70f77280-c817-11eb-8a81-1b51f603b443.png)
+
 
 
 
