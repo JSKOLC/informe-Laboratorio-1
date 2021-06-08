@@ -16,7 +16,7 @@
 -Aplicar el principio de conservación de la carga eléctrica y el principio de conservación de la energía a los circuitos eléctricos, con la finalidad de resolver        los que tienen varias mallas.	
 	    
 	  
-2.MARCO TEÓRICO
+2. MARCO TEÓRICO
 
 
 
