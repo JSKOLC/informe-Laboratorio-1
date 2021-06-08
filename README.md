@@ -1,5 +1,7 @@
 # informe-Laboratotio-1
-OBJETIVOS:
+1. OBJETIVOS:
+
+
 
  -Distinguir una fuente de corriente de una fuente de voltaje.
  
@@ -14,7 +16,9 @@ OBJETIVOS:
 -Aplicar el principio de conservación de la carga eléctrica y el principio de conservación de la energía a los circuitos eléctricos, con la finalidad de resolver        los que tienen varias mallas.	
 	    
 	  
-MARCO TEÓRICO
+2.MARCO TEÓRICO
+
+
 
 Leyes de Kirchoff
 Las leyes de Kirchoff consisten en aplicar el principio de conservación de la carga eléctrica y el principio de conservación de la energía a los circuitos eléctricos, con la finalidad de resolver los que tienen varias mallas.
