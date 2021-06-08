@@ -38,5 +38,13 @@ PRIMERA LEY DE KIRCHOFF:
 
 ![image](https://user-images.githubusercontent.com/85263529/121125779-be121f00-c7ec-11eb-9f4b-284b90f39515.png)
 
+Ley de corriente de Kirchhoff
+Las leyes de Kirchhoff son dos igualdades que se basan en la conservación de la energía y la carga en los circuitos eléctricos se las utiliza para hallar corrientes y tensiones en cualquier punto de un circuito eléctrico
+
+Segunda ley de Kirchhoff
+Establece que: La suma algebraica de las caídas de tensión a lo largo de una malla es igual a 0.
+
+![image](https://user-images.githubusercontent.com/85263529/121131965-26b1c980-c7f6-11eb-984a-730915e9915f.png)
+
 
 
