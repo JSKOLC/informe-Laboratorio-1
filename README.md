@@ -27,13 +27,13 @@ a) Ley de Kirchhoff de corrientes : La suma de las corrientes que entran a un no
 b) Ley de Kirchhoff de Voltajes: La suma de las caídas de voltaje en una trayectoria cerrada es igual a la suma de las elevaciones de voltaje en la misma.
 
 
-3.MATERIAL Y EQUIPO REQUERIDO
+ 3.MATERIAL Y EQUIPO REQUERIDO
 
 ![image](https://user-images.githubusercontent.com/85263529/121135866-8dd17d00-c7fa-11eb-9ed7-e830813bd5c5.png)
 
 	    
 	  
-4. MARCO TEÓRICO
+ 4. MARCO TEÓRICO
 
 
 
@@ -63,6 +63,29 @@ Establece que: La suma algebraica de las caídas de tensión a lo largo de una m
 
 ![image](https://user-images.githubusercontent.com/85263529/121131965-26b1c980-c7f6-11eb-984a-730915e9915f.png)
 
+5. EXPLICACIÓN DEL PROCEDIMIENTO
+
+  5.1 Arme el circuito que se muestra en la figura1.1
+  
+  ![imagen](https://user-images.githubusercontent.com/85263529/121137525-58c62a00-c7fc-11eb-9805-38fb0e8f1462.png)
+  
+  5.2 circuito simulado
+  
+  ![imagen](https://user-images.githubusercontent.com/85263529/121138649-85c70c80-c7fd-11eb-9e5e-849bf4a77baa.png)
+  
+  Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1
+  
+   5.3 Realizamos los respectivos calculos analiticos.
+   
+   ![imagen](https://user-images.githubusercontent.com/85263529/121143530-c2e1cd80-c802-11eb-9ff8-118fd07e698b.png)
+
+   ![imagen](https://user-images.githubusercontent.com/85263529/121143559-cb3a0880-c802-11eb-906a-62626ec5690f.png)
+   
+   ![imagen](https://user-images.githubusercontent.com/85263529/121143631-de4cd880-c802-11eb-98ae-d749381ac316.png)
+
+
+
+
 CONCLUSIONES:
 
 
@@ -73,7 +96,6 @@ CONCLUSIONES:
 7. BIBLIOGRAFIA
 
 Robbins, A. (2008). Analisis de circuitos. Teoria y practica. santa fe: cengage learning.
-
 Zapata, F. (. ((2 de June de 2021)). fisica. Leyes de Kirchhof, 5.
 
 
