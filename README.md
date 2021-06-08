@@ -122,8 +122,7 @@ Tabla 5.5.3. Verificación de la LCK
  
 7. VIDEO
 
-
-
+https://www.youtube.com/watch?v=1wV_wmnZmzs&feature=youtu.be
 
 8. CONCLUSIONES:
 
