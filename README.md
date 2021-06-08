@@ -1,16 +1,18 @@
 # informe-Laboratotio-1
 OBJETIVOS:
 
- Distinguir una fuente de corriente de una fuente de voltaje.
-	   Medir la resistencia equivalente en un circuito conectado en paralelo.
-       Verificar que en un nodo, la sumatoria de corrientes sea cero.
-       Identificar como funciona un circuito en serie
-       Comprobar las leyes de Kirchhoff de corriente como de voltaje
-       Aplicar el principio de conservación de la carga eléctrica y el principio de conservación de la energía a los circuitos eléctricos, con la finalidad de resolver        los que tienen varias mallas.	
-	  
+ -Distinguir una fuente de corriente de una fuente de voltaje.
+ 
+ -Medir la resistencia equivalente en un circuito conectado en paralelo.
 
+-Verificar que en un nodo, la sumatoria de corrientes sea cero.
 
-	  
+-Identificar como funciona un circuito en serie
+
+-Comprobar las leyes de Kirchhoff de corriente como de voltaje
+
+-Aplicar el principio de conservación de la carga eléctrica y el principio de conservación de la energía a los circuitos eléctricos, con la finalidad de resolver        los que tienen varias mallas.	
+	    
 	  
 MARCO TEÓRICO
 
