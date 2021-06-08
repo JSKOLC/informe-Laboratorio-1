@@ -64,6 +64,8 @@ Establece que: La suma algebraica de las caídas de tensión a lo largo de una m
 ![image](https://user-images.githubusercontent.com/85263529/121131965-26b1c980-c7f6-11eb-984a-730915e9915f.png)
 
 CONCLUSIONES:
+
+
 -Hemos podido identificar los circuitos en serie y podemos decir que cuando este se encuentra en serie su intensidad va a ser constante y por ende vamos a medirlo por medio de un Amperímetro.
 -Como notamos los porcentajes de error con mínimos por lo que podemos decir que la ley de Kirchhoff se cumple, y así constatar que en un circuito eléctrico la suma de corrientes que entran por  un nodo es igual a la suma de las corrientes que salen del mismo y que la suma algebraica de las diferencias de potencial en cualquier malla es igual a cero.
 
