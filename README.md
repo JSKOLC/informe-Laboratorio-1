@@ -82,18 +82,42 @@ Establece que: La suma algebraica de las caídas de tensión a lo largo de una m
    ![imagen](https://user-images.githubusercontent.com/85263529/121143559-cb3a0880-c802-11eb-906a-62626ec5690f.png)
    
    ![imagen](https://user-images.githubusercontent.com/85263529/121143631-de4cd880-c802-11eb-98ae-d749381ac316.png)
+   
+   ![imagen](https://user-images.githubusercontent.com/85263529/121156738-96cc4980-c80e-11eb-919c-aa57a3f076f6.png)
+
+   ![imagen](https://user-images.githubusercontent.com/85263529/121156876-b2375480-c80e-11eb-88e8-4a7402fae40f.png)
+
+   ![imagen](https://user-images.githubusercontent.com/85263529/121156919-bcf1e980-c80e-11eb-878c-36ddb6970c58.png)
+
+   5.4 Simulacion y lectura de datos
+   
+   ![imagen](https://user-images.githubusercontent.com/85263529/121157358-1b1ecc80-c80f-11eb-84ef-f9cda2322891.png)
+   
+   ![imagen](https://user-images.githubusercontent.com/85263529/121158738-350cdf00-c810-11eb-880d-daec35e8576f.png)
+   
+   5.5 Tablas de datos.
+   
+   ![imagen](https://user-images.githubusercontent.com/85263529/121159239-a3ea3800-c810-11eb-9193-c1c0b3184db2.png)
+   
+   ![imagen](https://user-images.githubusercontent.com/85263529/121159364-c0867000-c810-11eb-804b-795268eccfaa.png)
+
+
+
+6. RESPUESTA A INTERROGANTES 
+
+7. VIDEO
 
 
 
 
-CONCLUSIONES:
+8. CONCLUSIONES:
 
 
 -Hemos podido identificar los circuitos en serie y podemos decir que cuando este se encuentra en serie su intensidad va a ser constante y por ende vamos a medirlo por medio de un Amperímetro.
 -Como notamos los porcentajes de error con mínimos por lo que podemos decir que la ley de Kirchhoff se cumple, y así constatar que en un circuito eléctrico la suma de corrientes que entran por  un nodo es igual a la suma de las corrientes que salen del mismo y que la suma algebraica de las diferencias de potencial en cualquier malla es igual a cero.
 
 
-7. BIBLIOGRAFIA
+9. BIBLIOGRAFIA
 
 Robbins, A. (2008). Analisis de circuitos. Teoria y practica. santa fe: cengage learning.
 Zapata, F. (. ((2 de June de 2021)). fisica. Leyes de Kirchhof, 5.
