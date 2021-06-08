@@ -115,6 +115,7 @@ Tabla 5.5.3. Verificación de la LCK
 
 
 6. RESPUESTA A INTERROGANTES 
+
  Una principal interrogante que podemos notar es el por qué no coinciden los datos calculados con clos datos medidos. en realidad es muy facil responder puesto que al momento de realizar los calculos manualmente demebos tomar muy en cuenta los decimales, es decir las aproximaciones con las que vayamos a trtabajar. 
  
  luego de comparar los reultados obtenidos la variación es casi nula, dando asi por comprovado las LVK y las LCK si se cumplen en cualquier circuito.
