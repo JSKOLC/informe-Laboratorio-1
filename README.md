@@ -70,4 +70,9 @@ CONCLUSIONES:
 -Como notamos los porcentajes de error con mínimos por lo que podemos decir que la ley de Kirchhoff se cumple, y así constatar que en un circuito eléctrico la suma de corrientes que entran por  un nodo es igual a la suma de las corrientes que salen del mismo y que la suma algebraica de las diferencias de potencial en cualquier malla es igual a cero.
 
 
+7. BIBLIOGRAFIA
+
+Robbins, A. (2008). Analisis de circuitos. Teoria y practica. santa fe: cengage learning.
+Zapata, F. (. ((2 de June de 2021)). fisica. Leyes de Kirchhof, 5.
+
 
